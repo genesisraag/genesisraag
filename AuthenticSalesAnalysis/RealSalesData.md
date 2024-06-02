@@ -4,7 +4,7 @@ Project 2: Sales Performance Analysis using Authentic Data
 Project 2 builds upon the exploratory data analysis conducted in Project 1 by analyzing a real sales dataset to uncover actionable insights and trends. The analysis aims to provide a deeper understanding of sales performance and customer behavior to inform strategic decision-making.
 
 ## Dataset Description
-The dataset used in this analysis comprises real sales transactions spanning multiple time periods and product categories. It includes detailed information such as sales revenue, product lines, customer demographics, geographic regions, and more. The dataset is sourced from [https://www.kaggle.com/datasets/kyanyoga/sample-sales-data, Kaggle] and is representative of actual sales data collected from retail operations. 
+The dataset used in this analysis comprises real sales transactions spanning multiple time periods and product categories. It includes detailed information such as sales revenue, product lines, customer demographics, geographic regions, and more. The dataset is sourced from (https://www.kaggle.com/datasets/kyanyoga/sample-sales-data) [Kaggle] and is representative of actual sales data collected from retail operations. 
 
 
 Objectives
