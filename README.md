@@ -6,5 +6,5 @@ Welcome to my beginner data analysis portfolio! This repository contains a colle
 
 1. **Project 1: Exploratory Data Analysis on Sales Data**
    - Description: Analyzed sales data to identify trends and insights.
-   - [Link to Project](SalesProject/Sales.sql)
-   - [Linkt to Project Summary](SalesProject/SalesSummary.md)
+   - [Link to Project](MockSalesAnalysis/Sales.sql)
+   - [Linkt to Project Summary](MockSalesAnalysis/SalesSummary.md)
