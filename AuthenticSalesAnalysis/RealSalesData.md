@@ -22,7 +22,7 @@ Methodologies
 ### Total Sales by Product Line:
 
 | Product Line | Total Sales      | 
-|---------------------------------|
+|--------------|------------------|
 | Motorcycles      | $1,166,388.34|
 | Classic Cars     | $3,919,615.66|
 | Trucks and Buses | $1,127,789.84|
