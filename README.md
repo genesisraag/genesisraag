@@ -11,3 +11,4 @@ Welcome to my beginner data analysis portfolio! This repository contains a colle
 2. **Project 2: Sales Performance Analysis using Authentic Data**
    - Description: Examined the performance of sales activities using genuine sales data, highlighting key trends and    performance indicators.
    - [Link to Project](AuthenticSalesAnalysis/RealSalesData.sql)
+   - [Link to Project Summary](AuthenticSalesAnalysis/RealSalesData.md)
