@@ -14,4 +14,6 @@ Welcome to my beginner data analysis portfolio! This repository contains a colle
    - [Link to Project Summary](AuthenticSalesAnalysis/RealSalesData.md)
 3. **Project 3: Customer Segmentation Analysis using Mock Data
    - Description:  Conducted a customer segmentation analysis to categorize customers based on their spending behavior, purchase frequency, and demographic information. This project demonstrates the ability to segment customers and provide actionable insights for targeted marketing strategies.
-   - [Link to Project](MockCustomerSegmentationAnalysis/
+   - [Link to Project](MockCustomerSegmentationAnalysis/CustomerSegmentation.sql)
+   - [Link to Project Summary](MockCustomerSegmentationAnalysis/CustomerSegmentation.md)
+     
